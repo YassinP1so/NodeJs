@@ -1,0 +1,16 @@
+{
+  "name": "workshop-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "generator-password": "^1.0.4",
+    "nodemon": "^2.0.22"
+  }
+}
